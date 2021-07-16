@@ -16,7 +16,16 @@
       "author": "Lukas Laureg",
       "email": "lukenukeem@yahoo.de",
       "date": "17.04.2020"
-    }
+    },
+
+    {
+      "id": 3,
+      "title": "Badly overtaken",
+      "body": "I had a terrible accident last month. My car is completly done. I am glad to be alive.",
+      "author": "Mai Duroteg",
+      "email": "duroteg.mai@web.de",
+      "date": "10.05.2020"
+    },
 
   ],
   "comments": [
