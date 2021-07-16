@@ -25,9 +25,19 @@
       "author": "Mai Duroteg",
       "email": "duroteg.mai@web.de",
       "date": "10.05.2020"
+    },
+
+    {
+      "id": 4,
+      "title": "Trying realy hard",
+      "body": "I begand my new job on last monday. It was a tuff week. It is a challenge for sure. But i like it",
+      "author": "Marianei Gatolo-Mariotollonionau",
+      "email": "marianei.golomario@afs-paigo.com",
+      "date": "13.06.2020"
     }
+
    ],
-   
+
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 2 },
