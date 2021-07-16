@@ -3,14 +3,18 @@
     { "id": 1,
       "title": "Looking for freedom",
       "body": "What a wonderfull way of living you can find in in the south of wales.",
-      "author": "Hans Georg"
+      "author": "Hans Georg",
+      "email": "hanso.org@gmal.com",
+      "date": "23.03.2020"
     },
 
         {
           "id": 2,
-          "title": "Looking for freedom",
-          "body": "What a wonderfull way of living you can find in in the south of wales.",
-          "author": "Lukas Laureg"
+          "title": "Luckily alive!",
+          "body": "I had a terrible accident last month. My car is completly done. I am glad to be alive.",
+          "author": "Lukas Laureg",
+          "email": "lukenukeem@yahoo.de",
+          "date": "23.04.2021"
         }
 
   ],
